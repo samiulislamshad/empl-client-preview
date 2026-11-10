@@ -1,0 +1,1 @@
+import{t as e}from"./app.DTVT0tdA.js";e();
